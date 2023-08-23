@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Motivational</title>
+</head>
+<style>
+*{
+  background-color: black;
+}
+h1{
+  color: yellow;
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+  text-transform: uppercase;
+  font-size: 3em;
+}
+p{
+  color: white;
+  text-align: center;
+}
+img{
+  border: 5px solid white;
+  width: 100%;
+}
+div{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 50px;
+}
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+
+<body>
+  <div>
+    <img src="./assets/images/daenerys.jpeg">
+    <h1>That special moment</h1>
+    <p>That moment when you find the perfect avocado</p>
+  </div>
+</body>
+
+
+
+</html>
